@@ -1,5 +1,3 @@
-
-
 ## [Tips for System Design](https://github.com/neerazz/faang-system-design/blob/master/Tips_for_system_design.md)
 
 ### General Design Questions:
@@ -10,3 +8,7 @@
 ### OOPS Design:
 >  - [Design Call Center](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/oops/CallCenter.java)
 >  - [Design Hit Counter](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/oops/DesignHitCounter.java)
+
+
+## Useful Links:
+> - [Code Karle](https://www.codekarle.com/index.html) 
