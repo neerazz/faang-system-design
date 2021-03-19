@@ -1,6 +1,7 @@
 ## [Tips for System Design](https://github.com/neerazz/faang-system-design/blob/master/Tips_for_system_design.md)
 
 ### General Design Questions:
+
 >
 >   - [Tiny URL](https://github.com/neerazz/faang-system-design/tree/master/Neeraj/tiny-url)
 >   - [Cab Booking Service](Neeraj/cab-booking-system)
@@ -15,9 +16,12 @@
 >
 
 ### OOPS Design:
->  - [Design Call Center](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/oops/CallCenter.java)
->  - [Design Hit Counter](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/oops/DesignHitCounter.java)
 
+> - [Design Library Management System](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/oops/libraryManagment)
+> - [Design Parking Lot](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/oops/parkinglot)
+> - [Design Call Center](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/oops/CallCenter.java)
+> - [Design Hit Counter](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/oops/DesignHitCounter.java)
 
 ## Useful Links:
+
 > - [Code Karle](https://www.codekarle.com/index.html) 
