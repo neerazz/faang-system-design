@@ -3,11 +3,6 @@ package creational;
 import java.util.*;
 import java.io.*;
 
-/**
- * Created on:  Feb 18, 2021
- * Questions:
- */
-
 public class FactoryPattern {
 
     public static void main(String[] args) {
