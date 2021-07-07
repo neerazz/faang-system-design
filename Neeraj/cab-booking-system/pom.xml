@@ -8,8 +8,8 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.uditagarwal</groupId>
-	<artifactId>lld-cab-booking</artifactId>
+	<groupId>com.neeraj</groupId>
+	<artifactId>cab-booking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cab-booking-system</name>
 	<description>LLD for Cab Booking Problem</description>
@@ -66,7 +66,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>29.0-jre</version>
+			<version>[30.0-jre,)</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.assertj/assertj-core -->
