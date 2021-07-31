@@ -1,10 +1,3 @@
-package factory;
-
-import factory.shapes.Circle;
-import factory.shapes.Pentagon;
-import factory.shapes.Rectangle;
-import factory.shapes.Shape;
-
 public class ShapeFactory {
 
     public Shape createShape(String shapeName) {

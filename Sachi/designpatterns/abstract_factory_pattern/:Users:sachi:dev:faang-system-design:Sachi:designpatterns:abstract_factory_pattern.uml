@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/sachi/dev/faang-system-design/Sachi/designpatterns/abstract_factory_pattern</OriginalElement>
+  <nodes>
+    <node x="366.0" y="454.0">AbstractFactoryPatternTester</node>
+    <node x="0.0" y="559.0">WindowsButton</node>
+    <node x="110.25" y="454.0">Button</node>
+    <node x="189.0" y="559.0">MacButton</node>
+    <node x="0.0" y="127.0">MacFactory</node>
+    <node x="113.25" y="249.0">CheckBox</node>
+    <node x="0.0" y="354.0">MacCheckBox</node>
+    <node x="177.0" y="354.0">WindowsCheckBox</node>
+    <node x="242.0" y="127.0">WindowsFactory</node>
+    <node x="121.0" y="0.0">GUIFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MacCheckBox" target="CheckBox" relationship="REALIZATION">
+      <point x="0.0" y="-27.5" />
+      <point x="78.5" y="329.0" />
+      <point x="176.25" y="329.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="MacButton" target="Button" relationship="REALIZATION">
+      <point x="0.0" y="-27.5" />
+      <point x="255.0" y="534.0" />
+      <point x="169.75" y="534.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="WindowsFactory" target="GUIFactory" relationship="REALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="353.0" y="102.0" />
+      <point x="232.0" y="102.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="WindowsCheckBox" target="CheckBox" relationship="REALIZATION">
+      <point x="0.0" y="-27.5" />
+      <point x="274.0" y="329.0" />
+      <point x="176.25" y="329.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="WindowsButton" target="Button" relationship="REALIZATION">
+      <point x="0.0" y="-27.5" />
+      <point x="84.5" y="534.0" />
+      <point x="169.75" y="534.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="MacFactory" target="GUIFactory" relationship="REALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="111.0" y="102.0" />
+      <point x="232.0" y="102.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="315.5" y="307.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

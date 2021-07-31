@@ -1,5 +1,3 @@
-package factory.shapes;
-
 public class Pentagon implements Shape {
 
     @Override

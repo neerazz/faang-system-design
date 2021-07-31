@@ -1,5 +1,3 @@
-package factory.shapes;
-
 public class Circle implements Shape {
 
     @Override

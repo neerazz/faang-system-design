@@ -1,5 +1,3 @@
-package singleton;
-
 public class DoubleCheckThreadSafeSingleton {
 
     //Private instance

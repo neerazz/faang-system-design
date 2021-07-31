@@ -1,8 +1,4 @@
-package factory;
-
-import factory.shapes.Shape;
-
-public class Main {
+public class FactoryPatternTester {
 
     public static void main(String[] args) {
         ShapeFactory factory = new ShapeFactory();
