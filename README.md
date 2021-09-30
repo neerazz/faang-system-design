@@ -25,6 +25,7 @@
 > - [Design ATM](https://github.com/neerazz/faang-system-design/tree/master/Neeraj/oops/designs/atm)
 > - [Design Movie Ticket System](https://github.com/neerazz/faang-system-design/tree/master/Neeraj/oops/designs/movieTicketSystem)
 > - [Design Pharmacy Shop](https://github.com/neerazz/faang-system-design/tree/master/Neeraj/oops/designs/pharmacyshop)
+> - [Design Online Stock Broker](https://github.com/neerazz/faang-system-design/tree/master/Neeraj/oops/designs/onlineStockExchange)
 
 >> TODO
 >> - [Design Vending Machine](https://leetcode.com/discuss/interview-question/982302/FANNG-question-OOP-please-post-your-solutions-to-this)
